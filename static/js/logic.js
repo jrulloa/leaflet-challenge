@@ -13,7 +13,7 @@ var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 
 var myMap = L.map("map", {
   center: [
-    37.09, -95.71
+    37.31, -92.10
   ],
   zoom: 5,
 
